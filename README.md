@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# Blog-Crud-Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Demo](https://neon-dasik-7fc6f5.netlify.app/).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Task Description
+I.	Reactjs, redux toolkit for state management 
+II.	Nodejs, Express, Mongoose for server.
+III.	Postman for API testing.
+IV.	JWT  for authentication.
+V.	Bootstrap for responsive design.
+VI.	Toastify for notification.
+VII.	Moment for formating date.
+VIII.	Axios for HTTP requests.
+IX.	Modal for popup open.
+X.	Disqu’s for comment system.
+XI.	react-file-base64 for converting file to base64 img.
+XII.	Netlify for client-side deploy and Heroku for siver-side.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [https://pacific-tor-16383.herokuapp.com/](https://pacific-tor-16383.herokuapp.com/) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Task Detail
+*	Here,one Navbar it has two nav-item Blog and log in. After login user can see his dashboard and an Add new post button, clicking this user can post easily any blog. if user is new he have to Signup first.
+*	Clicking on the blog read more user can view blog content and comments of this post and can easily add any comment. 
